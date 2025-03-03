@@ -1,0 +1,37 @@
+.nav {
+    background-color: #c7a916; 
+    padding: 15px 0;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .desktop__nav {
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+  }
+  
+  .desktop__nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .desktop__nav ul li {
+    position: relative;
+  }
+  
+  .desktop__nav ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f8f8f8;
+    padding: 10px 15px;
+    transition: color 0.3s ease-in-out, transform 0.2s;
+  }
+  
+  .desktop__nav ul li a:hover {
+    color: #00aaff;
+    transform: scale(1.1);
+  }
