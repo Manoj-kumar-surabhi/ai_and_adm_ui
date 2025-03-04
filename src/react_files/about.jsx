@@ -37,7 +37,7 @@ function About() {
       instagram: 'https://www.instagram.com/',
       email: 'mailto:suryagowtham@example.com',
       about: 'Passionate about AI and cloud technologies, specializing in scalable data solutions.',
-      details: 'Focused on developing AI-driven applications and deploying them on cloud platforms like AWS and Azure.',
+      details: 'Focused on developing AI-driven applications and deploying them on cloud platforms like Azure.',
     },
     {
       name: 'Sumanth Reddy T',
@@ -46,7 +46,7 @@ function About() {
       github: 'https://github.com/',
       instagram: 'https://www.instagram.com/',
       email: 'mailto:sumanthreddy@example.com',
-      about: 'Expert in machine learning, automation, and data analytics.',
+      about: 'Expert in machine learning, Statistics, and data analytics.',
       details: 'Specializes in automating data workflows and building machine learning models for business insights.',
     },
   ];
